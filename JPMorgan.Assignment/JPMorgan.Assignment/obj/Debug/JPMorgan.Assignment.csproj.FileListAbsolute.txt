@@ -1,0 +1,6 @@
+D:\Interview\JPMorgan.Assignment\JPMorgan.Assignment\JPMorgan.Assignment\bin\Debug\JPMorgan.Assignment.exe.config
+D:\Interview\JPMorgan.Assignment\JPMorgan.Assignment\JPMorgan.Assignment\bin\Debug\JPMorgan.Assignment.exe
+D:\Interview\JPMorgan.Assignment\JPMorgan.Assignment\JPMorgan.Assignment\bin\Debug\JPMorgan.Assignment.pdb
+D:\Interview\JPMorgan.Assignment\JPMorgan.Assignment\JPMorgan.Assignment\obj\Debug\JPMorgan.Assignment.csprojResolveAssemblyReference.cache
+D:\Interview\JPMorgan.Assignment\JPMorgan.Assignment\JPMorgan.Assignment\obj\Debug\JPMorgan.Assignment.exe
+D:\Interview\JPMorgan.Assignment\JPMorgan.Assignment\JPMorgan.Assignment\obj\Debug\JPMorgan.Assignment.pdb
